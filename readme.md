@@ -2,7 +2,7 @@
 
 An AI-powered web application that analyzes any movie using its IMDb ID and generates structured audience insights including sentiment, emotional tone, polarization level, viewer targeting, and watch guidance.
 
-Live Demo: https://brew-movie-analyser-v5de.vercel.app/
+Live Demo: https://brew-movie-analyser.vercel.app/
 
 ---
 
